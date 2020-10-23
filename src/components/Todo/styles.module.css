@@ -1,0 +1,6 @@
+
+.wrapper-todo{
+  width: 380px !important;
+  margin-top: 10px;
+  overflow-x: auto;
+}
